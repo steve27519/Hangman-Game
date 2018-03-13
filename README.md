@@ -1,2 +1,2 @@
-# Hangman-Game
-Hangman game
+
+Hangman game with a sports theme using Javascript
